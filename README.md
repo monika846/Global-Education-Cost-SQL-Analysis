@@ -44,4 +44,4 @@ This project explores the **cost of university education across different countr
 ---
 
 ## 📌 Author
-- [Your Name] | [GitHub Profile Link]
+- [Monika Wadhwani] 
