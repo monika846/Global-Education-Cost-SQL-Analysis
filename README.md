@@ -6,9 +6,8 @@ This project explores the **cost of university education across different countr
 
 ## 🔧 Key Features
 
-### Database Creation & Cleaning:
+### Database Creation:
 - Designed a **relational database schema** with tables: `Universities`, `Programs`, and `Costs`.
-- Cleaned and normalized data by removing duplicates and restructuring for efficient SQL querying.
 - Engineered composite fields (like Total Cost) combining Tuition, Rent, Visa, Insurance, and Cost Index.
 
 ### Analytical SQL Queries:
@@ -16,7 +15,7 @@ This project explores the **cost of university education across different countr
 - Calculated **total education cost estimations per university/program**.
 - Determined **top affordable programs globally** using SQL aggregations.
 - Analyzed **living cost impacts** on total expenses through exchange rates and living index.
-- Applied **JOINS, CTEs, and aggregations** to simulate real-world database querying.
+- Applied **JOINS, Window functions, and aggregations** to simulate real-world database querying.
 
 ---
 
