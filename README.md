@@ -38,7 +38,7 @@ This project explores the **cost of university education across different countr
 ## 📈 Key Insights
 - Countries with the **most affordable education programs** considering living costs and exchange rates.
 - **Program-level cost comparisons** across multiple countries.
-- Influence of **living cost index and exchange rate variations** on total expenses.
+- Influence of **Exchange rate variations** on total expenses.
 
 ---
 
