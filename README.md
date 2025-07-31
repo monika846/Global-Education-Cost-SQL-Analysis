@@ -24,7 +24,7 @@ This project explores the **cost of university education across different countr
 |-----------------------|-------------------------------------------|
 | `data/`                | Contains the dataset CSV file             |
 | `notebooks/`           | Jupyter Notebook with SQL analysis        |
-| `README.md`            | Project documentation (this file)         |
+| `README.md`            | Project documentation                     |
 
 ---
 
